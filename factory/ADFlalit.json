@@ -1,0 +1,9 @@
+{
+	"name": "ADFlalit",
+	"location": "westcentralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "18ef2eee-14f0-4877-b5d3-a38d5bcb27e3",
+		"tenantId": "ae319fbd-4fd2-419c-a05f-b3ecc3c569c1"
+	}
+}
